@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8d84032-2027-4026-8b29-04f1b593ef49" name="Default Changelist" comment="some homepage">
-      <change afterPath="$PROJECT_DIR$/src/component/HomeTab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/121fa1a614f549ce5a595bc65953272a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/121fa1a614f549ce5a595bc65953272a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/13256545241325657812l1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Cvlx_GZXYAE72AN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/ISIS-696x372.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/KU_Logo_Official.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/KU_SubLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/KU_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/KU_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/TraceyShelton_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Untitled-1.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Untitled-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Untitled-1.tif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Untitled-2.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Untitled-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Untitled-3.ai" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Untitled-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Untitled-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/bus-stop-post-vector-flat-260nw-565095832 (1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/bus-stop-post-vector-flat-260nw-565095832.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/cartoon-is-a-city-bus-stop_43633-2508.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/cartoon-is-a-city-bus-stop_43633-2508.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/cba7826a431a0cfe23bd9554281379ce.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/cba7826a431a0cfe23bd9554281379ce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/cropped-gordon-parks-invisible-man-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/free-city-bus-stop-vector-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/jasmine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/jasmine1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/magnifying-glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/map-syria-governorates-idlib.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/motorbiking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/muslim-woman-praying.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/network.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/school-bus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/talking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/traffic-signal-bus-stop-vector-16178500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/traffic-signal-bus-stop-vector-16178500.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/west assyrians.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/what-is-armenian-e1482328785797.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/wow004-metro-illusion-geometric-wallpaper-charcoal-copper-ea2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/z1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/zoom-in.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/zoom_49883.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/ดาวน์โหลด.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="c8d84032-2027-4026-8b29-04f1b593ef49" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -65,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-17">
@@ -114,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="206" selection-start-line="24" selection-start-column="206" selection-end-line="24" selection-end-column="206" />
+            <state relative-caret-position="493">
+              <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -143,11 +91,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/component/HomeTab.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -196,6 +144,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -240,17 +189,25 @@
       <option name="presentableId" value="Default" />
       <updated>1543720130220</updated>
       <workItem from="1543720132954" duration="9439000" />
-      <workItem from="1543759201435" duration="2233000" />
+      <workItem from="1543759201435" duration="2737000" />
     </task>
+    <task id="LOCAL-00001" summary="some homepage">
+      <created>1543761641252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543761641252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11672000" />
+    <option name="totallyTimeSpent" value="12176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -263,8 +220,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3290461" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" visible="true" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" visible="true" weight="0.3290461" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290461" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -302,13 +259,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resources/Cvlx_GZXYAE72AN.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="206" selection-start-line="24" selection-start-column="206" selection-end-line="24" selection-end-column="206" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -349,6 +299,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
           <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
     </entry>
