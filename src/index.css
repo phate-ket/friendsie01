@@ -12,3 +12,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.ku-logo {
+  height: 8em;
+}
+.ku-sub-logo {
+  height: 8em;
+  margin-left: -20px;
+}
+
+.header {
+  background-color: #C3B090;
+  padding-left: 5em;
+}
+.header .title {
+  font-family: Impact, serif;
+}
+.header .subtitle {
+  font-family: LilyUPC, serif;
+}
+.header-text {
+  margin-top: 1.5rem;
+}
+.header-logo {
+  height: 10em;
+  padding-top: 1em;
+}
+
+.nav-tabs .nav-link {
+  background-color: #3D7A47;
+  color: white;
+  width: 7.5rem;
+  text-align: center;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-bottom: 0px;
+}
+.nav-tabs .nav-item {
+  margin-bottom: 0px;
+}
+
+.content {
+  background-color: #68AC7B;
+  min-height: 774px;
+  border: 0px;
+  padding: 3rem;
+}
